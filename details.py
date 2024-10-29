@@ -1,0 +1,8 @@
+GITHUB_USERNAME = " "
+GITHUB_REPO = " "
+GITHUB_FILE_PATH = " "
+GITHUB_ACCESS_TOKEN = " "
+API_KEY = " "
+LOCATION = "Maynooth, Ireland"
+BASE_PATH = r" "
+COM_PORT = "COM8"
